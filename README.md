@@ -36,3 +36,4 @@ Documentation plays a crucial role in fostering understanding and accessibility 
 
 Feel free to tailor or modify this template according to your preferences or specific content requirements for the repository.
 
+.
